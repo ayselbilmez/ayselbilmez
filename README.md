@@ -10,7 +10,7 @@ I'm a passionate candidate of **Full-Stack Developer**.  I love solving problems
 **Front-End**  
 - HTML5, CSS3, Bootstrap  
 - JavaScript
-= React
+- React
 
 **Back-End**  
 - .NET Core  
