@@ -9,7 +9,8 @@ I'm a passionate candidate of **Full-Stack Developer**.  I love solving problems
 
 **Front-End**  
 - HTML5, CSS3, Bootstrap  
-
+- JavaScript
+= React
 
 **Back-End**  
 - .NET Core  
@@ -25,7 +26,6 @@ I'm a passionate candidate of **Full-Stack Developer**.  I love solving problems
 
 ## 🌱 Currently Learning
 
-- JavaScript
 - Angular
 
 ## 📫 How to reach me:
